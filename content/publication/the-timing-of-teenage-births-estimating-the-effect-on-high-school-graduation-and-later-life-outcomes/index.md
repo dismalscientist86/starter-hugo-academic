@@ -4,6 +4,7 @@ title: "The Timing of Teenage Births: Estimating the Effect on High School
 publication_types:
   - "2"
 authors:
+  - Lisa Schulkind
   - admin
 doi: https://doi.org/10.1007/s13524-018-0748-6
 publication: "Demography, 56: 345–365"
