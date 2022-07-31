@@ -12,6 +12,9 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
+  - Lucia Foster
+  - Julia Manzella
+  - Erika Mcentarfer
   - admin
 author_notes: []
 publication: "AEA Papers and Proceedings, 110: 210-14. "
@@ -31,9 +34,9 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
