@@ -3,10 +3,7 @@ title: Danielle H. Sandler
 role: Principal Economist
 bio: My research interests include labor economics, urban economics, and crime
   economics.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
