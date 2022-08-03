@@ -5,7 +5,7 @@ experience:
   - title: Principal Economist
     company: U.S. Census Bureau
     company_url: ""
-    company_logo: org-gc
+    company_logo: 
     location: Washington, DC
     date_start: 2018-07-01
     date_end: ""
