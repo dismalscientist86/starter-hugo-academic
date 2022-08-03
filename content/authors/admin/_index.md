@@ -34,7 +34,7 @@ education:
     - course: BA in Economics
       institution: University of California - Santa Barbara
       year: 2007
-email: ""
+email: danielle.h.sandler@census.gov
 superuser: true
 highlight_name: true
 ---
