@@ -5,7 +5,7 @@ publication_types:
 authors:
   - admin
 doi: https://doi.org/10.1016/j.regsciurbeco.2016.10.007
-publication: "Regional Science and Urban Economics, 62, pp.24-35."
+publication: Regional Science and Urban Economics, 62, pp.24-35.
 abstract: This paper evaluates the potential for negative externalities 
 from public housing by examining crime rates before and after demolition 
 of public housing projects in Chicago between 1995 and 2010. Using data on 
