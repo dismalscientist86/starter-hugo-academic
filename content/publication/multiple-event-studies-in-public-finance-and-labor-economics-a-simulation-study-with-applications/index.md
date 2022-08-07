@@ -2,9 +2,9 @@
 title: "Multiple event studies in public finance and labor economics: A
   simulation study with applications"
 publication_types:
-  - "0"
+  - "2"
 authors:
-  - admin
+  - RyanSandler
 doi: https://content.iospress.com/articles/journal-of-economic-and-social-measurement/jem00383
 publication: "Journal of Economic and Social Measurement, 39 (1–2): 31–57"
 abstract: Event study is a powerful tool for analyzing the dynamic effects of
