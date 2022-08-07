@@ -3,6 +3,7 @@ title: Does public transit spread crime? Evidence from temporary rail station cl
 publication_types:
   - "2"
 authors:
+  - David C. Phillips
   - admin
 doi: https://doi.org/10.1016/j.regsciurbeco.2015.02.001
 publication: Regional Science and Urban Economics, 52, pp.13-26.
